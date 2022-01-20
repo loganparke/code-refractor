@@ -3,5 +3,5 @@ This is my completed code refactor weekly challenge for week 1.
 
 URL to deployed webpage: https://loganparke.github.io/code-refractor/
 
-screenshot of webpage: ./assets/images/horiseonscreenshot.png
+screenshot of webpage: ![alt text](https://github.com/loganparke/code-refractor/assets/images/image.jpg?raw=true)
 
